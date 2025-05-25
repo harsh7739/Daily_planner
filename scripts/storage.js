@@ -11,7 +11,7 @@ export function saveTask(task) {
 }
 
 export function deleteTask(id) {
-  const tasks = loadTasks().filter(t => t.id !== id);
+  const tasks = loadTasks().filter(item => item.id !== id);
   localStorage.setItem(STORAGE_KEY, JSON.stringify(tasks));
 }
 
