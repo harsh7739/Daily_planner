@@ -17,4 +17,13 @@
 
 ✅ Throttled "Back to Top" button
 
-✅ Optional: Clear all tasks
+✅ Clear all tasks
+
+
+## Tech Stack
+Technology	Purpose
+HTML5	Semantic structure
+CSS3	Layout, Flexbox, styling
+JavaScript (ES6+)	DOM manipulation, events, storage
+localStorage	Persistent task saving
+Debounce/Throttle	Performance optimization
