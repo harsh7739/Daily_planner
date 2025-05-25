@@ -40,3 +40,9 @@ Search – Type in the search box to filter tasks (debounced).
 Clear All – Remove all tasks at once.
 
 Scroll to Top – Click the floating “⬆ Top” button.
+
+ ## Installation & Usage
+ 
+Clone this repository:
+git clone https://github.com/yourusername/daily-planner.git
+Open index.html in your browser.
