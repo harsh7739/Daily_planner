@@ -27,3 +27,16 @@ CSS3        ->          	Layout, Flexbox, styling,
 JavaScript (ES6+)   ->  	DOM manipulation, events, storage,  
 localStorage	      ->    Persistent task saving,  
 Debounce/Throttle    -> 	Performance optimization
+
+## How It Works
+Add Tasks – Type in a task and click "Add".
+
+Mark as Complete – Check the box to strike through a task.
+
+Delete Task – Click the ❌ icon to remove a task.
+
+Search – Type in the search box to filter tasks (debounced).
+
+Clear All – Remove all tasks at once.
+
+Scroll to Top – Click the floating “⬆ Top” button.
