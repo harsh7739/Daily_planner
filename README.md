@@ -22,7 +22,7 @@
 
 ## Tech Stack
 
-HTML5       ->	           Semantic structure, 
+HTML5       ->	           Semantic structure,     
 CSS3        ->          	Layout, Flexbox, styling,  
 JavaScript (ES6+)   ->  	DOM manipulation, events, storage,  
 localStorage	      ->    Persistent task saving,  
